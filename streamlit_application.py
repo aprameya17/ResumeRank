@@ -14,7 +14,7 @@ import os
 streamlit_color.main()
 
 # Load OpenAI API key from environment variable
-os.environ["OPENAI_API_KEY"] = "sk-proj-77tDToQi6LUjoXbnRUHST3BlbkFJYsVLZsLn5ASXH74A1U2F"
+os.environ["OPENAI_API_KEY"] = "Put your OPENAI_API KEY"
 
 st.markdown("<h1 style='text-align: center; color: grey;'>ResumeRank</h1>", unsafe_allow_html=True)
 
