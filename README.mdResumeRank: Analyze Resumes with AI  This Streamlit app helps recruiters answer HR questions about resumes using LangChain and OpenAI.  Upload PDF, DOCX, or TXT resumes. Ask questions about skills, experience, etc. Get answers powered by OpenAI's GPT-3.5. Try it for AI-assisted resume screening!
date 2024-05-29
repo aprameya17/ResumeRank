@@ -1,5 +1,0 @@
-## ResumeRank: Analyze Resumes with AI
-
-This Streamlit app helps recruiters answer HR questions about resumes using LangChain and OpenAI. You can upload PDF, DOCX, or TXT resumes and ask questions about skills, experience, etc.
-The app will give you answers powered by OpenAI's GPT-3.5.
-Try it for simple AI-assisted resume screening!
